@@ -9,7 +9,7 @@ namespace CafeManagement
     class Cafe
     {
 
-        //Default Constructor
+        //Default Constructor - base
         public Cafe()
         {
             newlatteeCof = 0.0;
